@@ -1,0 +1,24 @@
+<lcgdict>
+  <class name="daqAnalysis::ChannelData"/>
+  <class name="std::vector<daqAnalysis::ChannelData>"/>
+  <class name="art::Wrapper<daqAnalysis::ChannelData>"/>
+  <class name="art::Wrapper<std::vector<daqAnalysis::ChannelData>>"/>
+
+  <class name="daqAnalysis::ReducedChannelData"/>
+  <class name="std::vector<daqAnalysis::ReducedChannelData>"/>
+  <class name="art::Wrapper<daqAnalysis::ReducedChannelData>"/>
+  <class name="art::Wrapper<std::vector<daqAnalysis::ReducedChannelData>>"/>
+
+  <class name="daqAnalysis::HeaderData"/>
+  <class name="std::vector<daqAnalysis::HeaderData>"/>
+  <class name="art::Wrapper<daqAnalysis::HeaderData>"/>
+  <class name="art::Wrapper<std::vector<daqAnalysis::HeaderData>>"/>
+
+  <class name="daqAnalysis::NevisTPCMetaData"/>
+  <class name="std::vector<daqAnalysis::NevisTPCMetaData>"/>
+  <class name="art::Wrapper<daqAnalysis::NevisTPCMetaData>"/>
+  <class name="art::Wrapper<std::vector<daqAnalysis::NevisTPCMetaData>>"/>
+
+  <class name="std::vector<std::vector<short>>"/>
+  <class name="art::Wrapper<std::vector<std::vector<short>>>"/>
+</lcgdict>
